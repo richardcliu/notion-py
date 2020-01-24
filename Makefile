@@ -12,4 +12,4 @@ clean:
 	rm -rf notion.egg-info
 
 install:
-	python setup.py install
+	python3 setup.py install
